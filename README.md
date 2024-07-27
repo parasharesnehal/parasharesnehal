@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasharesnehal&label=Profile%20views&color=0e75b6&style=flat" alt="parasharesnehal" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/parasharesnehal](https://github.com/parasharesnehal)
-
+- 
 - 📝 I also write articles on [https://hashnode.com/@parasharesnehal](https://hashnode.com/@parasharesnehal)
 - 
 - ⚡ Fun fact **My attention to detail is so remarkable that even algorithms envy my precision**
