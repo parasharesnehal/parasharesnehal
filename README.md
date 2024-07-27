@@ -6,9 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/parasharesnehal](https://github.com/parasharesnehal)
 
 - 📝 I also write articles on [https://hashnode.com/@parasharesnehal](https://hashnode.com/@parasharesnehal)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jUusglDMRqcwWO-QrfhBlMYkpMnr0s_T/view?usp=sharing](https://drive.google.com/file/d/1jUusglDMRqcwWO-QrfhBlMYkpMnr0s_T/view?usp=sharing)
-
+- 
 - ⚡ Fun fact **My attention to detail is so remarkable that even algorithms envy my precision**
 
 <h3 align="left">Connect with me:</h3>
